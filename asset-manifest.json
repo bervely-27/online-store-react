@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bevwork/online-store-react/static/css/main.f855e6bc.css",
+    "main.js": "/bevwork/online-store-react/static/js/main.3c3a3488.js",
+    "static/js/453.68f3eddf.chunk.js": "/bevwork/online-store-react/static/js/453.68f3eddf.chunk.js",
+    "static/media/logo.svg": "/bevwork/online-store-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bevwork/online-store-react/index.html",
+    "main.f855e6bc.css.map": "/bevwork/online-store-react/static/css/main.f855e6bc.css.map",
+    "main.3c3a3488.js.map": "/bevwork/online-store-react/static/js/main.3c3a3488.js.map",
+    "453.68f3eddf.chunk.js.map": "/bevwork/online-store-react/static/js/453.68f3eddf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3c3a3488.js"
+  ]
+}
